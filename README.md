@@ -2,4 +2,4 @@
 Noms et Prenoms du Binome :
 -Laib Zakarya
 -Naidja Zakaria
--Grp 03
+-Groupe 03
